@@ -1,0 +1,38 @@
+.container{
+    background-color: aliceblue;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    margin: 10px;
+    padding: 40px;
+    box-shadow: 2px 2px 9px 9px solid rgb(255, 255, 255);
+}
+body{
+    background: rgb(123, 214, 247);
+        background: radial-gradient(circle, rgba(123, 214, 247, 1) 0%, rgba(190, 152, 249, 1) 100%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.free button {
+    background-color: plum;
+    height: 35px;
+    border-radius: 5px;
+    
+}
+.standart button {
+    background-color: rgb(155, 208, 243);
+    height: 35px;
+    border-radius: 5px;
+}
+.premium button {
+    background-color: rgb(247, 247, 175);
+    height: 35px;
+    border-radius: 7px;
+}
+.conteiner{
+    border-radius: 10px;
+    background-color: white;
+    display: flex;
+    align-self: center;
+    margin: 210px;
+}
